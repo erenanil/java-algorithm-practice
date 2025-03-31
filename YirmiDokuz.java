@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class YirmiDokuz {
+    /*
+     * Verilen yılın artık yıl olup olmadığını bulan programın algoritma ve
+akış diyagramını çiziniz.
+     */
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         System.out.println("Yıl giriniz: ");
